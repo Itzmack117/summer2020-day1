@@ -1,0 +1,11 @@
+h1, h2 , h3 {
+    color:goldenrod;
+}
+
+.subtext{
+    color: yellow;
+}
+
+body {
+    background-image: url(background.jpg) ;
+}
